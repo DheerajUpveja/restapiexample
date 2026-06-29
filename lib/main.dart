@@ -43,6 +43,7 @@ class _MyAppState extends State<MyApp> {
       home: Scaffold(
         appBar: AppBar(
           title: const Text('REST API Example'),
+          backgroundColor: Colors.orange,
         ),
         body: Center(
           child: Column(
